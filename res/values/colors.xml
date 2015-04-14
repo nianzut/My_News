@@ -1,6 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     
-    <item type="drawable" name="main_background">#FFDAECFF</item>
+    <item type="drawable" name="main_background">#FFF3F3F3</item>
+    <item type="drawable" name="titlebar">#FF3970D5</item>
+    <item type="drawable" name="white">#FFFFFFFF</item>
     
 </resources>
